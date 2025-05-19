@@ -9,7 +9,6 @@ yarn-error.log*
 Thumbs.db
 
 # Editor-specific files
-.vscode/
 .idea/
 *.sublime-workspace
 *.sublime-project
@@ -37,3 +36,4 @@ out/
 .cache/
 .parcel-cache/
 script_git_push.sh
+# .vscode/*
