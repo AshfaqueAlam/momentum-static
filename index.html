@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Momentum</title>
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="assets/css/bootstrap.min.css" />
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="assets/css/main.css" />
+  </head>
+  <body>
+    <!-- Header Include -->
+    <div id="header"></div>
+
+
+    <!-- Main Content -->
+    <main class="container py-4">
+      <h1>Welcome</h1>
+      <p>This is a clean, maintainable static site.</p>
+    </main>
+
+
+    <!-- Footer Include -->
+    <div id="footer"></div>
+
+    <!-- Bootstrap + Custom JS -->
+    <script src="assets/js/bootstrap.bundle.min.js"></script>
+    <script src="assets/js/bootstrap.min.js"></script>
+    <script src="assets/js/main.js"></script>
+
+    <!-- JS includes for header/footer -->
+    <script>
+      // For simple include in pure HTML
+      fetch("src/components/header.html")
+        .then((res) => res.text())
+        .then((data) => (document.getElementById("header").innerHTML = data));
+      fetch("src/components/footer.html")
+        .then((res) => res.text())
+        .then((data) => (document.getElementById("footer").innerHTML = data));
+    </script>
+  </body>
+</html>
