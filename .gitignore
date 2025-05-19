@@ -36,3 +36,4 @@ out/
 # Cache
 .cache/
 .parcel-cache/
+script_git_push.sh
