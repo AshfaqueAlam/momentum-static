@@ -47,21 +47,24 @@ function loadPage(pagePath) {
 
 function renderHomeCards() {
   const container = document.getElementById("card-container");
-  console.log("-----------------------", container);
-  if (!container) return;
+  if (!container) {
+    console.error("Card container not found.");
+    return;
+  }
 
   for (const categoryKey in data) {
-    const { displayName, description, thumbnailPath } = data[categoryKey]; // ? Top 3 properties assigned.
+    // const { displayName, description, thumbnailPath } = data[categoryKey]; // ? Top 3 properties assigned.
+    const eachCategory = data[categoryKey];
 
     const card = document.createElement("div");
     card.className = "col-md-4 mb-4";
 
     card.innerHTML = `
       <div class="card h-100 shadow category-card position-relative overflow-hidden border-0">
-        <img src="${thumbnailPath}" class="card-img category-thumbnail" alt="${displayName}">
+        <img src="${eachCategory.thumbnailPath}" class="card-img category-thumbnail" alt="${eachCategory.displayName}">
         <div class="card-overlay d-flex flex-column justify-content-end p-3">
-          <h5 class="card-title text-white fw-bold">${displayName}</h5>
-          <p class="card-text text-light small">${description}</p>
+          <h5 class="card-title text-white fw-bold">${eachCategory.displayName}</h5>
+          <p class="card-text text-light small">${eachCategory.description}</p>
         </div>
       </div>
       `;
