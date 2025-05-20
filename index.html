@@ -36,7 +36,10 @@
         .then((data) => (document.getElementById("header").innerHTML = data));
       fetch("src/components/footer.html")
         .then((res) => res.text())
-        .then((data) => (document.getElementById("footer").innerHTML = data));
+        .then((data) => {
+          document.getElementById("footer").innerHTML = data;
+          document.getElementById("copyYear").textContent = new Date().getFullYear();
+        });
       fetch("src/pages/home.html")
         .then((res) => res.text())
         .then((data) => {
