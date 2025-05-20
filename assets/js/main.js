@@ -1,4 +1,4 @@
-data = {
+const data = {
   genre1: {
     displayName: "Genre 1",
     description: "Description of Genre 1",
@@ -16,7 +16,7 @@ data = {
       },
     ],
   },
-    genre2: {
+  genre2: {
     displayName: "Genre 2",
     description: "Description of Genre 2",
     thumbnailPath: "assets/images/placeholders/test_placeholder.jpg",
@@ -34,3 +34,38 @@ data = {
     ],
   },
 };
+
+// Replace <main> tag content in the home page preserving the header and footer.
+function loadPage(pagePath) {
+  fetch(pagePath)
+    .then((res) => res.text())
+    .then((html) => {
+      document.querySelector("main").innerHTML = html;
+      // Optionally re-run scripts after new HTML is injected
+    });
+}
+
+function renderHomeCards() {
+  const container = document.getElementById("card-container");
+  console.log("-----------------------", container);
+  if (!container) return;
+
+  for (const categoryKey in data) {
+    const { displayName, description, thumbnailPath } = data[categoryKey]; // ? Top 3 properties assigned.
+
+    const card = document.createElement("div");
+    card.className = "col-md-4 mb-4";
+
+    card.innerHTML = `
+      <div class="card h-100 shadow category-card position-relative overflow-hidden border-0">
+        <img src="${thumbnailPath}" class="card-img category-thumbnail" alt="${displayName}">
+        <div class="card-overlay d-flex flex-column justify-content-end p-3">
+          <h5 class="card-title text-white fw-bold">${displayName}</h5>
+          <p class="card-text text-light small">${description}</p>
+        </div>
+      </div>
+      `;
+
+    container.appendChild(card);
+  }
+}
