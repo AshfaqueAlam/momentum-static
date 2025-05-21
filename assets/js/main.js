@@ -190,6 +190,93 @@ const data = {
       },
     ],
   },
+  upperBack: {
+    displayName: "Upper Back",
+    description: "Upper back exercises to relieve tension and improve posture.",
+    thumbnailPath: "assets/images/placeholders/test_placeholder.jpg",
+    videos: [
+      {
+        offlinePath: "assets/videos/upperBack1.mp4",
+        onlineUrl: "https://youtube.com/shorts/u-icTznUuz8?feature=shared",
+      },
+    ],
+  },
+  chest: {
+    displayName: "Chest",
+    description: "Chest exercises to strengthen and tone your chest.",
+    thumbnailPath: "assets/images/placeholders/test_placeholder.jpg",
+    videos: [
+      {
+        offlinePath: "assets/videos/chest1.mp4",
+        onlineUrl: "https://www.instagram.com/reel/DCoQGyYzk0P/?igsh=ZThycHJvbHpydWs1",
+      },
+      {
+        offlinePath: "assets/videos/chest2.mp4",
+        onlineUrl: "https://www.instagram.com/reel/DFXUH8DSN59/?igsh=OXhxMm94cjhsZDY5",
+      },
+      {
+        offlinePath: "assets/videos/chest3.mp4",
+        onlineUrl: "https://youtube.com/shorts/NykyCcxIfY4?feature=shared",
+      },
+      {
+        offlinePath: "assets/videos/chest4.mp4",
+        onlineUrl: "https://youtube.com/shorts/VZUDAOL2LI8?feature=shared",
+      },
+    ],
+  },
+  shoulder: {
+    displayName: "Shoulder",
+    description: "Shoulder exercises to strengthen and tone your shoulders.",
+    thumbnailPath: "assets/images/placeholders/test_placeholder.jpg",
+    videos: [
+      {
+        offlinePath: "assets/videos/shoulder1.mp4",
+        onlineUrl: "https://www.instagram.com/reel/DIs8GJSzcH5/?igsh=MW9lanJzOWF1Y3locA==",
+      },
+      {
+        offlinePath: "assets/videos/shoulder2.mp4",
+        onlineUrl: "https://youtube.com/shorts/guWmxcdmnwc?feature=shared",
+      },
+      {
+        offlinePath: "assets/videos/shoulder3.mp4",
+        onlineUrl: "https://youtube.com/shorts/tAMW1e5hUKw?feature=shared",
+      },
+      {
+        offlinePath: "assets/videos/shoulder4.mp4",
+        onlineUrl: "https://www.instagram.com/reel/DJegtv4IUwb/?igsh=amt6dzU4OXY2NHVq",
+      },
+      {
+        offlinePath: "assets/videos/shoulder5.mp4",
+        onlineUrl: "https://www.instagram.com/reel/DJ6g6Ycs_4f/?igsh=MWprdXd0MGFiYmVwbg==",
+      },
+    ],
+  },
+  arm: {
+    displayName: "Arms",
+    description: "Arm exercises to strengthen and tone your arms.",
+    thumbnailPath: "assets/images/placeholders/test_placeholder.jpg",
+    videos: [
+      {
+        offlinePath: "assets/videos/arm1.mp4",
+        onlineUrl: "https://www.instagram.com/reel/DIvuRlwsvZT/?igsh=d2RkODlnMmcxMnVn",
+      },
+    ],
+  },
+  bicep: {
+    displayName: "Biceps",
+    description: "Bicep exercises to strengthen and tone your biceps.",
+    thumbnailPath: "assets/images/placeholders/test_placeholder.jpg",
+    videos: [
+      {
+        offlinePath: "assets/videos/bicep1.mp4",
+        onlineUrl: "https://youtube.com/shorts/_GziHDdJY10?feature=shared",
+      },
+      {
+        offlinePath: "assets/videos/bicep2.mp4",
+        onlineUrl: "https://youtube.com/shorts/IwGvls2g4p0?feature=shared",
+      },
+    ],
+  },
 };
 
 // Replace <main> tag content in the home page preserving the header and footer.
