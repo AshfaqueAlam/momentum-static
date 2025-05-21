@@ -132,6 +132,64 @@ const data = {
       },
     ],
   },
+  abs: {
+    displayName: "Abs",
+    description: "Abs exercises to strengthen and tone your core.",
+    thumbnailPath: "assets/images/placeholders/test_placeholder.jpg",
+    videos: [
+      {
+        offlinePath: "assets/videos/abs1.mp4",
+        onlineUrl: "https://youtube.com/shorts/AJPhnaIy7cc?feature=shared",
+      },
+      {
+        offlinePath: "assets/videos/abs2.mp4",
+        onlineUrl: "https://youtube.com/shorts/bNbxV1c2c1U?feature=shared",
+      },
+      {
+        offlinePath: "assets/videos/abs3.mp4",
+        onlineUrl: "https://youtube.com/shorts/nWnv2psVIOA?feature=shared",
+      },
+      {
+        offlinePath: "assets/videos/abs4.mp4",
+        onlineUrl: "https://www.instagram.com/reel/DEbnuJ_oqnt/?igsh=ZGNvYnFzb2g0eDc4",
+      },
+      {
+        offlinePath: "assets/videos/abs5.mp4",
+        onlineUrl: "https://www.instagram.com/reel/DHgHCP3Ir-9/?igsh=ZWNqNjdzOGttbDdm",  // ! Startcut
+      },
+      {
+        offlinePath: "assets/videos/abs6.mp4",
+        onlineUrl: "https://www.instagram.com/reel/DGvGtw0InUN/?igsh=MXc1bWM0Mm9neTVwdg==",
+      },
+    ],
+  },
+  lowerBack: {
+    displayName: "Lower Back",
+    description: "Lower back exercises to relieve tension and improve posture.",
+    thumbnailPath: "assets/images/placeholders/test_placeholder.jpg",
+    videos: [
+      {
+        offlinePath: "assets/videos/lowerBack1.mp4",
+        onlineUrl: "https://www.instagram.com/reel/DG0aMTKgnIl/?igsh=dnkxOTg3eXphZ2lz",
+      },
+      {
+        offlinePath: "assets/videos/lowerBack2.mp4",
+        onlineUrl: "https://www.instagram.com/reel/DDFd52kzMyE/?igsh=MWxtN3BwdHFwYzRtYQ==",
+      },
+      {
+        offlinePath: "assets/videos/lowerBack3.mp4",
+        onlineUrl: "https://www.instagram.com/reel/DEsAd2UtI27/?igsh=MWFnNWNrdmw4N29idw==",
+      },
+      {
+        offlinePath: "assets/videos/lowerBack4.mp4",
+        onlineUrl: "https://youtube.com/shorts/CqWdutpVHxk?feature=shared",
+      },
+      {
+        offlinePath: "assets/videos/lowerBack5.mp4",
+        onlineUrl: "https://youtube.com/shorts/HbFIpIVwKp4?feature=shared",
+      },
+    ],
+  },
 };
 
 // Replace <main> tag content in the home page preserving the header and footer.
