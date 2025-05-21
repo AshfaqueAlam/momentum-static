@@ -30,6 +30,85 @@ const data = {
       },
     ],
   },
+  neck: {
+    displayName: "Neck",
+    description: "Neck exercises to relieve tension and improve posture.",
+    thumbnailPath: "assets/images/placeholders/test_placeholder.jpg",
+    videos: [
+      {
+        offlinePath: "assets/videos/neck1.mp4",
+        onlineUrl: "https://youtube.com/shorts/7AQ8ZyMCOvM?feature=shared",
+      },
+    ],
+  },
+  ankle: {
+    displayName: "Ankle",
+    description: "Ankle exercises to strengthen and stabilize your ankles.",
+    thumbnailPath: "assets/images/placeholders/test_placeholder.jpg",
+    videos: [
+      {
+        offlinePath: "assets/videos/ankle1.mp4",
+        onlineUrl: "https://youtube.com/shorts/oE6SQanl5e4?feature=shared",
+      },
+    ],
+  },
+  calf: {
+    displayName: "Calf",
+    description: "Calf exercises to improve strength and flexibility.",
+    thumbnailPath: "assets/images/placeholders/test_placeholder.jpg",
+    videos: [
+      {
+        offlinePath: "assets/videos/calf1.mp4",
+        onlineUrl: "https://youtube.com/shorts/a-x_NR-ibos?feature=shared",
+      },
+      {
+        offlinePath: "assets/videos/calf2.mp4",
+        onlineUrl: "https://youtube.com/shorts/L-We4LHKDcU?feature=shared",
+      },
+    ],
+  },
+  thigh: {
+    displayName: "Thigh",
+    description: "Thigh exercises to strengthen and tone your thighs.",
+    thumbnailPath: "assets/images/placeholders/test_placeholder.jpg",
+    videos: [
+      {
+        offlinePath: "assets/videos/thigh1.mp4",
+        onlineUrl: "https://www.instagram.com/reel/DHqp9k3J_7L/?igsh=cjIyMWR6M3JwODJh",
+      },
+      {
+        offlinePath: "assets/videos/thigh2.mp4",
+        onlineUrl: "https://youtube.com/shorts/vob9MY1UkuY?feature=shared",
+      },
+      {
+        offlinePath: "assets/videos/thigh3.mp4",
+        onlineUrl: "https://youtube.com/shorts/AqiS1Qe_drQ?feature=shared",
+      },
+    ],
+  },
+  glute: {
+    displayName: "Glute",
+    description: "Glute exercises to strengthen and tone your glutes.",
+    thumbnailPath: "assets/images/placeholders/test_placeholder.jpg",
+    videos: [
+      {
+        offlinePath: "assets/videos/glute1.mp4",
+        onlineUrl: "https://www.instagram.com/reel/DF-lmGPKzy4/?igsh=MWNiaTIwMGVwdDdkeA==",
+      },
+      {
+        offlinePath: "assets/videos/glute2.mp4",
+        onlineUrl: "https://youtube.com/shorts/BhUpWmlKcJ8?feature=shared",
+      },
+      {
+        offlinePath: "assets/videos/glute3.mp4",
+        onlineUrl: "https://youtube.com/shorts/Fbw_98aWeA8?feature=shared",
+      },
+      {
+        offlinePath: "assets/videos/glute4.mp4",
+        onlineUrl: "https://www.instagram.com/reel/DDcHRHoSaWr/?igsh=Ym94M2t0dHdudzhr",
+      },
+    ],
+  },
 };
 
 // Replace <main> tag content in the home page preserving the header and footer.
