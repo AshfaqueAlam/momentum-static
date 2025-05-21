@@ -277,6 +277,59 @@ const data = {
       },
     ],
   },
+  tricep: {
+    displayName: "Triceps",
+    description: "Tricep exercises to strengthen and tone your triceps.",
+    thumbnailPath: "assets/images/placeholders/test_placeholder.jpg",
+    videos: [
+      {
+        offlinePath: "assets/videos/tricep1.mp4",
+        onlineUrl: "https://youtube.com/shorts/8IK6BkC0lWE?feature=shared",
+      },
+      {
+        offlinePath: "assets/videos/tricep2.mp4",
+        onlineUrl: "https://youtube.com/shorts/EhDqH4Ggp-k?feature=shared",
+      },
+      {
+        offlinePath: "assets/videos/tricep3.mp4",
+        onlineUrl: "https://youtube.com/shorts/5YaWrGPtIIE?feature=shared",
+      },
+      {
+        offlinePath: "assets/videos/tricep4.mp4",
+        onlineUrl: "https://www.instagram.com/reel/DHJK0K9uBKi/?igsh=dm85OTE1ZjBhNTRi",
+      },
+    ],
+  },
+  forearm: {
+    displayName: "Forearm",
+    description: "Forearm exercises to strengthen and tone your forearms.",
+    thumbnailPath: "assets/images/placeholders/test_placeholder.jpg",
+    videos: [
+      {
+        offlinePath: "assets/videos/forearm1.mp4",
+        onlineUrl: "https://youtube.com/shorts/IOKmMcfzK_o?feature=shared",
+      },
+      {
+        offlinePath: "assets/videos/forearm2.mp4",
+        onlineUrl: "https://youtube.com/shorts/U9pVNnMSUmI?feature=shared",
+      },
+      {
+        offlinePath: "assets/videos/forearm3.mp4",
+        onlineUrl: "https://youtube.com/shorts/d5YiFNoiCa0?feature=shared",
+      },
+    ],
+  },
+  ultimate: {
+    displayName: "Ultimate",
+    description: "Ultimate exercises for a full-body workout.",
+    thumbnailPath: "assets/images/placeholders/test_placeholder.jpg",
+    videos: [
+      {
+        offlinePath: "assets/videos/ultimate1.mp4",
+        onlineUrl: "https://www.instagram.com/reel/DGvuaHxoeWS/?igsh=MWVsNGdsNHdxeDFwZA==",
+      },
+    ],
+  },
 };
 
 // Replace <main> tag content in the home page preserving the header and footer.
