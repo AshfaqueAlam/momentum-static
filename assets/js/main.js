@@ -2,7 +2,7 @@ const data = {
   warmup: {
     displayName: "Warmup",
     description: "Warmup exercises to get you started.",
-    thumbnailPath: "assets/images/placeholders/test_placeholder.jpg",
+    thumbnailPath: "assets/images/placeholders/warmup1.png",
     videos: [
       {
         offlinePath: "assets/videos/warmup1.mp4",
@@ -14,7 +14,7 @@ const data = {
   flexibility: {
     displayName: "Flexibility",
     description: "Flexibility exercises to improve your range of motion.",
-    thumbnailPath: "assets/images/placeholders/test_placeholder.jpg",
+    thumbnailPath: "assets/images/placeholders/flexibility1.png",
     videos: [
       {
         offlinePath: "assets/videos/flexibility1.mp4",
@@ -33,7 +33,7 @@ const data = {
   neck: {
     displayName: "Neck",
     description: "Neck exercises to relieve tension and improve posture.",
-    thumbnailPath: "assets/images/placeholders/test_placeholder.jpg",
+    thumbnailPath: "assets/images/placeholders/neck1.png",
     videos: [
       {
         offlinePath: "assets/videos/neck1.mp4",
@@ -44,7 +44,7 @@ const data = {
   ankle: {
     displayName: "Ankle",
     description: "Ankle exercises to strengthen and stabilize your ankles.",
-    thumbnailPath: "assets/images/placeholders/test_placeholder.jpg",
+    thumbnailPath: "assets/images/placeholders/ankle1.jpg",
     videos: [
       {
         offlinePath: "assets/videos/ankle1.mp4",
@@ -55,7 +55,7 @@ const data = {
   calf: {
     displayName: "Calf",
     description: "Calf exercises to improve strength and flexibility.",
-    thumbnailPath: "assets/images/placeholders/test_placeholder.jpg",
+    thumbnailPath: "assets/images/placeholders/calf1.jpg",
     videos: [
       {
         offlinePath: "assets/videos/calf1.mp4",
@@ -70,7 +70,7 @@ const data = {
   thigh: {
     displayName: "Thigh",
     description: "Thigh exercises to strengthen and tone your thighs.",
-    thumbnailPath: "assets/images/placeholders/test_placeholder.jpg",
+    thumbnailPath: "assets/images/placeholders/thigh1.jpg",
     videos: [
       {
         offlinePath: "assets/videos/thigh1.mp4",
@@ -93,7 +93,7 @@ const data = {
   glute: {
     displayName: "Glute",
     description: "Glute exercises to strengthen and tone your glutes.",
-    thumbnailPath: "assets/images/placeholders/test_placeholder.jpg",
+    thumbnailPath: "assets/images/placeholders/glute1.png",
     videos: [
       {
         offlinePath: "assets/videos/glute1.mp4",
@@ -116,7 +116,7 @@ const data = {
   kegal: {
     displayName: "Kegal",
     description: "Kegal exercises to strengthen pelvic floor muscles.",
-    thumbnailPath: "assets/images/placeholders/test_placeholder.jpg",
+    thumbnailPath: "assets/images/placeholders/kegal1.png",
     videos: [
       {
         offlinePath: "assets/videos/kegal1.mp4",
@@ -135,7 +135,7 @@ const data = {
   abs: {
     displayName: "Abs",
     description: "Abs exercises to strengthen and tone your core.",
-    thumbnailPath: "assets/images/placeholders/test_placeholder.jpg",
+    thumbnailPath: "assets/images/placeholders/abs1.jpg",
     videos: [
       {
         offlinePath: "assets/videos/abs1.mp4",
@@ -166,7 +166,7 @@ const data = {
   spine: {
     displayName: "Spine",
     description: "Spine exercises to improve flexibility and reduce back pain.",
-    thumbnailPath: "assets/images/placeholders/test_placeholder.jpg",
+    thumbnailPath: "assets/images/placeholders/spine1.png",
     videos: [
       {
         offlinePath: "assets/videos/spine1.mp4",
@@ -185,7 +185,7 @@ const data = {
   lowerBack: {
     displayName: "Lower Back",
     description: "Lower back exercises to relieve tension and improve posture.",
-    thumbnailPath: "assets/images/placeholders/test_placeholder.jpg",
+    thumbnailPath: "assets/images/placeholders/lowerBack1.png",
     videos: [
       {
         offlinePath: "assets/videos/lowerBack1.mp4",
@@ -212,7 +212,7 @@ const data = {
   upperBack: {
     displayName: "Upper Back",
     description: "Upper back exercises to relieve tension and improve posture.",
-    thumbnailPath: "assets/images/placeholders/test_placeholder.jpg",
+    thumbnailPath: "assets/images/placeholders/upperBack1.png",
     videos: [
       {
         offlinePath: "assets/videos/upperBack1.mp4",
@@ -223,7 +223,7 @@ const data = {
   chest: {
     displayName: "Chest",
     description: "Chest exercises to strengthen and tone your chest.",
-    thumbnailPath: "assets/images/placeholders/test_placeholder.jpg",
+    thumbnailPath: "assets/images/placeholders/chest1.png",
     videos: [
       {
         offlinePath: "assets/videos/chest1.mp4",
@@ -250,7 +250,7 @@ const data = {
   shoulder: {
     displayName: "Shoulder",
     description: "Shoulder exercises to strengthen and tone your shoulders.",
-    thumbnailPath: "assets/images/placeholders/test_placeholder.jpg",
+    thumbnailPath: "assets/images/placeholders/shoulder1.png",
     videos: [
       {
         offlinePath: "assets/videos/shoulder1.mp4",
@@ -273,7 +273,7 @@ const data = {
   arm: {
     displayName: "Arms",
     description: "Arm exercises to strengthen and tone your arms.",
-    thumbnailPath: "assets/images/placeholders/test_placeholder.jpg",
+    thumbnailPath: "assets/images/placeholders/arm1.png",
     videos: [
       {
         offlinePath: "assets/videos/arm1.mp4",
@@ -288,7 +288,7 @@ const data = {
   bicep: {
     displayName: "Biceps",
     description: "Bicep exercises to strengthen and tone your biceps.",
-    thumbnailPath: "assets/images/placeholders/test_placeholder.jpg",
+    thumbnailPath: "assets/images/placeholders/bicep1.png",
     videos: [
       {
         offlinePath: "assets/videos/bicep1.mp4",
@@ -303,7 +303,7 @@ const data = {
   tricep: {
     displayName: "Triceps",
     description: "Tricep exercises to strengthen and tone your triceps.",
-    thumbnailPath: "assets/images/placeholders/test_placeholder.jpg",
+    thumbnailPath: "assets/images/placeholders/tricep1.png",
     videos: [
       {
         offlinePath: "assets/videos/tricep1.mp4",
@@ -326,7 +326,7 @@ const data = {
   forearm: {
     displayName: "Forearm",
     description: "Forearm exercises to strengthen and tone your forearms.",
-    thumbnailPath: "assets/images/placeholders/test_placeholder.jpg",
+    thumbnailPath: "assets/images/placeholders/forearm1.png",
     videos: [
       {
         offlinePath: "assets/videos/forearm1.mp4",
@@ -345,7 +345,7 @@ const data = {
   ultimate: {
     displayName: "Ultimate",
     description: "Ultimate exercises for a full-body workout.",
-    thumbnailPath: "assets/images/placeholders/test_placeholder.jpg",
+    thumbnailPath: "assets/images/placeholders/ultimate1.png",
     videos: [
       {
         offlinePath: "assets/videos/ultimate1.mp4",
