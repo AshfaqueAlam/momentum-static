@@ -279,6 +279,10 @@ const data = {
         offlinePath: "assets/videos/arm1.mp4",
         onlineUrl: "https://www.instagram.com/reel/DIvuRlwsvZT/?igsh=d2RkODlnMmcxMnVn",
       },
+      {
+        offlinePath: "assets/videos/arm2.mp4",
+        onlineUrl: "https://www.instagram.com/reel/DC01BlvI78m/?igsh=cWJrYjF2ZXEzaTBp",
+      },
     ],
   },
   bicep: {
