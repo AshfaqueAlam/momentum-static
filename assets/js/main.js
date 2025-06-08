@@ -84,6 +84,10 @@ const data = {
         offlinePath: "assets/videos/thigh3.mp4",
         onlineUrl: "https://youtube.com/shorts/AqiS1Qe_drQ?feature=shared",
       },
+      {
+        offlinePath: "assets/videos/thigh4.mp4",
+        onlineUrl: "https://www.instagram.com/reel/DJ9Kv0UTevQ/?igsh=MzZvMTd6ZWdxNnMy",
+      },
     ],
   },
   glute: {
@@ -155,11 +159,26 @@ const data = {
       },
       {
         offlinePath: "assets/videos/abs5.mp4",
-        onlineUrl: "https://www.instagram.com/reel/DHgHCP3Ir-9/?igsh=ZWNqNjdzOGttbDdm",  // ! Startcut
+        onlineUrl: "https://www.instagram.com/reel/DHgHCP3Ir-9/?igsh=ZWNqNjdzOGttbDdm", // ! Startcut
       },
       {
         offlinePath: "assets/videos/abs6.mp4",
         onlineUrl: "https://www.instagram.com/reel/DGvGtw0InUN/?igsh=MXc1bWM0Mm9neTVwdg==",
+      },
+    ],
+  },
+  spine: {
+    displayName: "Spine",
+    description: "Spine exercises to improve flexibility and reduce back pain.",
+    thumbnailPath: "assets/images/placeholders/test_placeholder.jpg",
+    videos: [
+      {
+        offlinePath: "assets/videos/spine1.mp4",
+        onlineUrl: "https://www.instagram.com/reel/DHaWJUbM6vy/?igsh=OWh6bHpyeGp3bzM0",
+      },
+      {
+        offlinePath: "assets/videos/spine2.mp4",
+        onlineUrl: "https://www.instagram.com/reel/DIrL7HYynAC/?igsh=OWE1ejlvdm53enc=",
       },
     ],
   },
