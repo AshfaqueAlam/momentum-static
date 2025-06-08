@@ -26,7 +26,7 @@ const data = {
       },
       {
         offlinePath: "assets/videos/flexibility3.mp4",
-        onlineUrl: "https://www.instagram.com/reel/DH3U1gRp6qX/?igsh=MXE0dnF6bmFxZ3Rqdw==",  // ! Startcut
+        onlineUrl: "https://www.instagram.com/reel/DH3U1gRp6qX/?igsh=MXE0dnF6bmFxZ3Rqdw==", // ! Startcut
       },
     ],
   },
@@ -235,11 +235,15 @@ const data = {
       },
       {
         offlinePath: "assets/videos/chest3.mp4",
-        onlineUrl: "https://youtube.com/shorts/NykyCcxIfY4?feature=shared",
+        onlineUrl: "https://youtube.com/shorts/NykyCcxIfY4?feature=shared", // ! Startcut
       },
       {
         offlinePath: "assets/videos/chest4.mp4",
         onlineUrl: "https://youtube.com/shorts/VZUDAOL2LI8?feature=shared",
+      },
+      {
+        offlinePath: "assets/videos/chest5.mp4",
+        onlineUrl: "https://www.instagram.com/reel/DJegtv4IUwb/?igsh=amt6dzU4OXY2NHVq",
       },
     ],
   },
@@ -262,10 +266,6 @@ const data = {
       },
       {
         offlinePath: "assets/videos/shoulder4.mp4",
-        onlineUrl: "https://www.instagram.com/reel/DJegtv4IUwb/?igsh=amt6dzU4OXY2NHVq",
-      },
-      {
-        offlinePath: "assets/videos/shoulder5.mp4",
         onlineUrl: "https://www.instagram.com/reel/DJ6g6Ycs_4f/?igsh=MWprdXd0MGFiYmVwbg==",
       },
     ],
