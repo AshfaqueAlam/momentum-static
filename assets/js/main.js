@@ -218,6 +218,10 @@ const data = {
         offlinePath: "assets/videos/upperBack1.mp4",
         onlineUrl: "https://youtube.com/shorts/u-icTznUuz8?feature=shared",
       },
+      {
+        offlinePath: "assets/videos/upperBack2.mp4",
+        onlineUrl: "https://www.instagram.com/reel/DPLQU33jzA3/?igsh=bTlmenhscDdzbXY1",
+      },
     ],
   },
   chest: {
