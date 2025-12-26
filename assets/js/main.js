@@ -1,6 +1,6 @@
 const data = {
   // TODO: All `sub-categories videos` "find & populate" with dumbbells or body-weight workouts.
-  // TODO: "Rename and change" `video & thumbnails` as per the category/sub-category.
+  // TODO: "Rename and change" `video & thumbnails` names as per the category/sub-category.
   warmup: {
     displayName: "Warmup",
     description: "Warmup exercises to get you started.",
