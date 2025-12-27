@@ -3,7 +3,7 @@ const data = {
   warmup: {
     displayName: "Warmup",
     description: "Warmup exercises to get you started.",
-    thumbnailPath: "assets/images/placeholders/warmup1.png",
+    thumbnailPath: "assets/images/placeholders/nano_banana_pro/warmup1.jpg",
     videos: [
       {
         offlinePath: "assets/videos/warmup1.mp4",
@@ -27,7 +27,7 @@ const data = {
   mobility: {
     displayName: "Mobility",
     description: "Mobility exercises to improve your range of motion.",
-    thumbnailPath: "assets/images/placeholders/mobility1.png",
+    thumbnailPath: "assets/images/placeholders/nano_banana_pro/mobility1.jpg",
     videos: [
       {
         offlinePath: "assets/videos/mobility1.mp4",
@@ -98,12 +98,12 @@ const data = {
   chest: {
     displayName: "Chest",
     description: "Chest exercises to strengthen and tone your chest.",
-    thumbnailPath: "assets/images/placeholders/chest1.png",
+    thumbnailPath: "assets/images/placeholders/nano_banana_pro/chest1.jpg",
     subCategories: {
       pectorals: {
         displayName: "Pectorals (Pecs) / Middle Chest",
         description: "Pecs exercises to strengthen and tone your pectoral muscles.",
-        thumbnailPath: "assets/images/placeholders/chest1.png",
+        thumbnailPath: "assets/images/placeholders/nano_banana_pro/chestPecs1.jpg",
         videos: [
           {
             offlinePath: "assets/videos/chest1.mp4",
@@ -142,7 +142,7 @@ const data = {
       upperChest: {
         displayName: "Upper Chest (Clavicular Head)",
         description: "Upper chest exercises to target the upper pectoral muscles.",
-        thumbnailPath: "assets/images/placeholders/chest1.png",
+        thumbnailPath: "assets/images/placeholders/nano_banana_pro/chestClavicularHead1.jpg",
         videos: [
           {
             offlinePath: "assets/videos/chest7.mp4",
@@ -153,7 +153,7 @@ const data = {
       lowerChest: {
         displayName: "Lower Chest (Abdominal Head)",
         description: "Lower chest exercises to target the lower pectoral muscles.",
-        thumbnailPath: "assets/images/placeholders/chest1.png",
+        thumbnailPath: "assets/images/placeholders/nano_banana_pro/chestAbdominalHead1.jpg",
         videos: [
           {
             offlinePath: "assets/videos/chest3.mp4", // ! Startcut
@@ -170,12 +170,12 @@ const data = {
   back: {
     displayName: "Back",
     description: "Back exercises to strengthen and tone your back muscles.",
-    thumbnailPath: "assets/images/placeholders/back1.png",
+    thumbnailPath: "assets/images/placeholders/nano_banana_pro/back1.jpg",
     subCategories: {
       lats: {
         displayName: "Lats (Latissimus Dorsi)",
         description: "Lats exercises to strengthen and tone your latissimus dorsi muscles.",
-        thumbnailPath: "assets/images/placeholders/back1.png",
+        thumbnailPath: "assets/images/placeholders/nano_banana_pro/backLats1.jpg",
         videos: [
           {
             offlinePath: "assets/videos/back3.mp4",
@@ -214,7 +214,7 @@ const data = {
       traps: {
         displayName: "Traps (Trapezius)",
         description: "Traps exercises to strengthen and tone your trapezius muscles.",
-        thumbnailPath: "assets/images/placeholders/back1.png",
+        thumbnailPath: "assets/images/placeholders/nano_banana_pro/backTraps1.jpg",
         videos: [
           {
             offlinePath: "assets/videos/shoulder1.mp4",
@@ -233,7 +233,7 @@ const data = {
       middleBack: {
         displayName: "Middle Back (Rhomboids)",
         description: "Middle back exercises to strengthen and tone your rhomboid muscles.",
-        thumbnailPath: "assets/images/placeholders/back1.png",
+        thumbnailPath: "assets/images/placeholders/nano_banana_pro/backRhomboids1.jpg",
         videos: [
           {
             offlinePath: "assets/videos/back1.mp4", // ! Edit: Keep Last workout
@@ -248,7 +248,7 @@ const data = {
       lowerBack: {
         displayName: "Lower Back (Erector Spinae)",
         description: "Lower back exercises to strengthen and tone your erector spinae muscles.",
-        thumbnailPath: "assets/images/placeholders/back1.png",
+        thumbnailPath: "assets/images/placeholders/nano_banana_pro/backErectorSpinae1.jpg",
         videos: [
           {
             offlinePath: "assets/videos/back10.mp4",
@@ -265,12 +265,12 @@ const data = {
   shoulder: {
     displayName: "Shoulders",
     description: "Shoulder exercises to strengthen and tone your shoulders.",
-    thumbnailPath: "assets/images/placeholders/shoulder1.png",
+    thumbnailPath: "assets/images/placeholders/nano_banana_pro/shoulder1.jpg",
     subCategories: {
       frontDelt: {
         displayName: "Front Delts (Anterior)",
         description: "Front delt exercises to strengthen and tone your anterior deltoid muscles.",
-        thumbnailPath: "assets/images/placeholders/shoulder1.png",
+        thumbnailPath: "assets/images/placeholders/nano_banana_pro/shoulderFrontDelts1.jpg",
         videos: [
           {
             offlinePath: "assets/videos/shoulder4.mp4", // ! Edit: Keep First workout
@@ -293,7 +293,7 @@ const data = {
       sideDelt: {
         displayName: "Side Delts (Lateral)",
         description: "Side delt exercises to strengthen and tone your lateral deltoid muscles.",
-        thumbnailPath: "assets/images/placeholders/shoulder1.png",
+        thumbnailPath: "assets/images/placeholders/nano_banana_pro/shoulderSideDelts1.jpg",
         videos: [
           {
             offlinePath: "assets/videos/shoulder2.mp4",
@@ -308,7 +308,7 @@ const data = {
       rearDelt: {
         displayName: "Rear Delts (Posterior)",
         description: "Rear delt exercises to strengthen and tone your posterior deltoid muscles.",
-        thumbnailPath: "assets/images/placeholders/shoulder1.png",
+        thumbnailPath: "assets/images/placeholders/nano_banana_pro/shoulderRearDelts1.jpg",
         videos: [
           {
             offlinePath: "assets/videos/shoulder4.mp4", // ! Edit: Keep Last workout
@@ -331,12 +331,12 @@ const data = {
   arm: {
     displayName: "Arms",
     description: "Arm exercises to strengthen and tone your arms.",
-    thumbnailPath: "assets/images/placeholders/arm1.png",
+    thumbnailPath: "assets/images/placeholders/nano_banana_pro/arm1.jpg",
     subCategories: {
       bicep: {
         displayName: "Biceps",
         description: "Bicep exercises to strengthen and tone your biceps.",
-        thumbnailPath: "assets/images/placeholders/bicep1.png",
+        thumbnailPath: "assets/images/placeholders/nano_banana_pro/armBiceps1.jpg",
         videos: [
           {
             offlinePath: "assets/videos/arm1.mp4",
@@ -355,7 +355,7 @@ const data = {
       tricep: {
         displayName: "Triceps",
         description: "Tricep exercises to strengthen and tone your triceps.",
-        thumbnailPath: "assets/images/placeholders/tricep1.png",
+        thumbnailPath: "assets/images/placeholders/nano_banana_pro/armTriceps1.jpg",
         videos: [
           {
             offlinePath: "assets/videos/arm3.mp4",
@@ -382,7 +382,7 @@ const data = {
       forearm: {
         displayName: "Forearm",
         description: "Forearm exercises to strengthen and tone your forearms.",
-        thumbnailPath: "assets/images/placeholders/forearm1.png",
+        thumbnailPath: "assets/images/placeholders/nano_banana_pro/armForearms1.jpg",
         videos: [
           {
             offlinePath: "assets/videos/arm7.mp4",
@@ -411,12 +411,12 @@ const data = {
   leg: {
     displayName: "Legs",
     description: "Leg exercises to strengthen and tone your legs.",
-    thumbnailPath: "assets/images/placeholders/calf1.jpg",
+    thumbnailPath: "assets/images/placeholders/nano_banana_pro/leg1.jpg",
     subCategories: {
       quads: {
         displayName: "Quads (Quadriceps)",
         description: "Quad exercises to strengthen and tone your quadriceps muscles.",
-        thumbnailPath: "assets/images/placeholders/thigh1.jpg",
+        thumbnailPath: "assets/images/placeholders/nano_banana_pro/legQuads1.jpg",
         videos: [
           {
             offlinePath: "assets/videos/leg1.mp4",
@@ -447,7 +447,7 @@ const data = {
       hamstrings: {
         displayName: "Hamstrings",
         description: "Hamstring exercises to strengthen and tone your hamstrings muscles.",
-        thumbnailPath: "assets/images/placeholders/thigh1.jpg",
+        thumbnailPath: "assets/images/placeholders/nano_banana_pro/legHamstrings1.jpg",
         videos: [
           {
             offlinePath: "assets/videos/leg13.mp4",
@@ -458,7 +458,7 @@ const data = {
       glute: {
         displayName: "Glute",
         description: "Glute exercises to strengthen and tone your glutes.",
-        thumbnailPath: "assets/images/placeholders/glute1.png",
+        thumbnailPath: "assets/images/placeholders/nano_banana_pro/legGlutes1.jpg",
         videos: [
           {
             offlinePath: "assets/videos/leg5.mp4",
@@ -489,7 +489,7 @@ const data = {
       calves: {
         displayName: "Calves",
         description: "Calf exercises to strengthen and tone your calf muscles.",
-        thumbnailPath: "assets/images/placeholders/calf1.jpg",
+        thumbnailPath: "assets/images/placeholders/nano_banana_pro/legCalves1.jpg",
         videos: [
           {
             offlinePath: "assets/videos/leg9.mp4",
@@ -516,7 +516,7 @@ const data = {
       abductor: {
         displayName: "Abductor",
         description: "Abductor exercises to strengthen and tone your abductor muscles.",
-        thumbnailPath: "assets/images/placeholders/thigh1.jpg",
+        thumbnailPath: "assets/images/placeholders/nano_banana_pro/legAbductor1.jpg",
         videos: [
           {
             offlinePath: "assets/videos/leg15.mp4", // ! Edit: Keep Last workout
@@ -529,12 +529,12 @@ const data = {
   core: {
     displayName: "Core",
     description: "Core exercises to strengthen and tone your core muscles.",
-    thumbnailPath: "assets/images/placeholders/abs1.jpg",
+    thumbnailPath: "assets/images/placeholders/nano_banana_pro/core1.jpg",
     subCategories: {
       abs: {
         displayName: "Abs",
         description: "Abdominal exercises to strengthen and tone your abdominal muscles.",
-        thumbnailPath: "assets/images/placeholders/abs1.jpg",
+        thumbnailPath: "assets/images/placeholders/nano_banana_pro/coreAbs1.jpg",
         videos: [
           {
             offlinePath: "assets/videos/core1.mp4",
@@ -577,7 +577,7 @@ const data = {
       obliques: {
         displayName: "Obliques",
         description: "Oblique exercises to strengthen and tone your oblique muscles.",
-        thumbnailPath: "assets/images/placeholders/abs1.jpg",
+        thumbnailPath: "assets/images/placeholders/nano_banana_pro/coreObliques1.jpg",
         videos: [
           {
             offlinePath: "assets/videos/core11.mp4",
@@ -588,7 +588,7 @@ const data = {
       pelvicFloor: {
         displayName: "Pelvic Floor",
         description: "Pelvic floor exercises to strengthen and tone your pelvic floor muscles.",
-        thumbnailPath: "assets/images/placeholders/pelvicFloor1.png",
+        thumbnailPath: "assets/images/placeholders/nano_banana_pro/corePelvicFloor1.jpg",
         videos: [
           {
             offlinePath: "assets/videos/core7.mp4",
@@ -617,7 +617,7 @@ const data = {
   calisthenics: {
     displayName: "Calisthenics",
     description: "Bodyweight exercises to build strength and flexibility.",
-    thumbnailPath: "assets/images/placeholders/calisthenics1.png",
+    thumbnailPath: "assets/images/placeholders/nano_banana_pro/calisthenics1.jpg",
     videos: [
       {
         offlinePath: "assets/videos/calisthenics1.mp4",
@@ -640,7 +640,7 @@ const data = {
   bestPractices: {
     displayName: "Best Practices",
     description: "Tips and best practices for effective workouts.",
-    thumbnailPath: "assets/images/placeholders/bestPractices1.png",
+    thumbnailPath: "assets/images/placeholders/nano_banana_pro/bestPractices1.jpg",
     videos: [
       {
         offlinePath: "assets/videos/bestPractices1.mp4",
