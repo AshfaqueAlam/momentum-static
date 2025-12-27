@@ -522,6 +522,8 @@ function renderSubcategories(categoryKey) {
   }
 
   const category = data[categoryKey];
+  const titleEl = document.getElementById("category-title");
+  if (titleEl) titleEl.textContent = category.displayName;
   const sc = category.subCategories || {};
 
   const keys = Object.keys(sc);
