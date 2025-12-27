@@ -1,6 +1,5 @@
 const data = {
-  // TODO: All `sub-categories videos` "find & populate" with dumbbells or body-weight workouts.
-  // TODO: "Rename and change" `video & thumbnails` names as per the category/sub-category.
+  // TODO: "Rename and change" `thumbnails` as per the category/sub-category.
   warmup: {
     displayName: "Warmup",
     description: "Warmup exercises to get you started.",
@@ -871,7 +870,7 @@ function renderVideos(categoryKey, subCategoryKey = null) {
       <div class="card h-100 shadow-sm">
         <!-- <img src="${video.videoThumbnailPath}" class="card-img-top" alt="Video Thumbnail"> -->
         <div class="card-body">
-          <video controls width="100%" height="auto" src="${video.offlinePath || ""}" class="mt-2"></video>
+          <video muted controls width="100%" height="auto" src="${video.offlinePath || ""}" class="mt-2"></video>
           ${video.onlineUrl ? `<a href="${video.onlineUrl}" target="_blank" class="btn btn-sm btn-primary mb-2">Watch Online</a>` : ""}
         </div>
       </div>
