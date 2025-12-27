@@ -31,23 +31,23 @@ const data = {
         onlineUrl: "https://www.instagram.com/reel/DH3U1gRp6qX/?igsh=MXE0dnF6bmFxZ3Rqdw==",
       },
       {
-        offlinePath: "assets/videos/lowerBack2.mp4",
+        offlinePath: "assets/videos/mobility4.mp4",
         onlineUrl: "https://www.instagram.com/reel/DEsAd2UtI27/?igsh=MWFnNWNrdmw4N29idw==",
       },
       {
-        offlinePath: "assets/videos/lowerBack1.mp4",
+        offlinePath: "assets/videos/mobility5.mp4",
         onlineUrl: "https://www.instagram.com/reel/DG0aMTKgnIl/?igsh=dnkxOTg3eXphZ2lz",
       },
       {
-        offlinePath: "assets/videos/lowerBack4.mp4",
+        offlinePath: "assets/videos/mobility6.mp4",
         onlineUrl: "https://youtube.com/shorts/HbFIpIVwKp4?feature=shared",
       },
       {
-        offlinePath: "assets/videos/spine1.mp4",
+        offlinePath: "assets/videos/mobility7.mp4",
         onlineUrl: "https://www.instagram.com/reel/DHaWJUbM6vy/?igsh=OWh6bHpyeGp3bzM0",
       },
       {
-        offlinePath: "assets/videos/spine2.mp4",
+        offlinePath: "assets/videos/mobility8.mp4",
         onlineUrl: "https://www.instagram.com/reel/DIrL7HYynAC/?igsh=OWE1ejlvdm53enc=",
       },
     ],
@@ -110,11 +110,11 @@ const data = {
         thumbnailPath: "assets/images/placeholders/back1.png",
         videos: [
           {
-            offlinePath: "assets/videos/arm2.mp4",
+            offlinePath: "assets/videos/back3.mp4",
             onlineUrl: "https://www.instagram.com/reel/DC01BlvI78m/?igsh=cWJrYjF2ZXEzaTBp",
           },
           {
-            offlinePath: "assets/videos/shoulder1.mp4",
+            offlinePath: "assets/videos/back4.mp4",
             onlineUrl: "https://www.instagram.com/reel/DIs8GJSzcH5/?igsh=MW9lanJzOWF1Y3locA==",
           },
           {
@@ -122,7 +122,7 @@ const data = {
             onlineUrl: "https://www.instagram.com/reel/DPLQU33jzA3/?igsh=bTlmenhscDdzbXY1",
           },
           {
-            offlinePath: "assets/videos/arm1.mp4",
+            offlinePath: "assets/videos/back5.mp4",
             onlineUrl: "https://www.instagram.com/reel/DIvuRlwsvZT/?igsh=d2RkODlnMmcxMnVn",
           },
         ],
@@ -133,7 +133,7 @@ const data = {
         thumbnailPath: "assets/images/placeholders/back1.png",
         videos: [
           {
-            offlinePath: "assets/videos/neck1.mp4",
+            offlinePath: "assets/videos/shoulder1.mp4",
             onlineUrl: "https://youtube.com/shorts/7AQ8ZyMCOvM?feature=shared",
           },
         ],
@@ -218,11 +218,11 @@ const data = {
         thumbnailPath: "assets/images/placeholders/bicep1.png",
         videos: [
           {
-            offlinePath: "assets/videos/bicep1.mp4",
+            offlinePath: "assets/videos/arm1.mp4",
             onlineUrl: "https://youtube.com/shorts/_GziHDdJY10?feature=shared",
           },
           {
-            offlinePath: "assets/videos/bicep2.mp4",
+            offlinePath: "assets/videos/arm2.mp4",
             onlineUrl: "https://youtube.com/shorts/IwGvls2g4p0?feature=shared",
           },
         ],
@@ -233,19 +233,19 @@ const data = {
         thumbnailPath: "assets/images/placeholders/tricep1.png",
         videos: [
           {
-            offlinePath: "assets/videos/tricep1.mp4",
+            offlinePath: "assets/videos/arm3.mp4",
             onlineUrl: "https://youtube.com/shorts/8IK6BkC0lWE?feature=shared",
           },
           {
-            offlinePath: "assets/videos/tricep2.mp4",
+            offlinePath: "assets/videos/arm4.mp4",
             onlineUrl: "https://youtube.com/shorts/EhDqH4Ggp-k?feature=shared",
           },
           {
-            offlinePath: "assets/videos/tricep3.mp4",
+            offlinePath: "assets/videos/arm5.mp4",
             onlineUrl: "https://youtube.com/shorts/5YaWrGPtIIE?feature=shared",
           },
           {
-            offlinePath: "assets/videos/tricep4.mp4",
+            offlinePath: "assets/videos/arm6.mp4",
             onlineUrl: "https://www.instagram.com/reel/DHJK0K9uBKi/?igsh=dm85OTE1ZjBhNTRi",
           },
         ],
@@ -256,15 +256,15 @@ const data = {
         thumbnailPath: "assets/images/placeholders/forearm1.png",
         videos: [
           {
-            offlinePath: "assets/videos/forearm1.mp4",
+            offlinePath: "assets/videos/arm7.mp4",
             onlineUrl: "https://youtube.com/shorts/IOKmMcfzK_o?feature=shared",
           },
           {
-            offlinePath: "assets/videos/forearm2.mp4",
+            offlinePath: "assets/videos/arm8.mp4",
             onlineUrl: "https://youtube.com/shorts/U9pVNnMSUmI?feature=shared",
           },
           {
-            offlinePath: "assets/videos/forearm3.mp4",
+            offlinePath: "assets/videos/arm9.mp4",
             onlineUrl: "https://youtube.com/shorts/d5YiFNoiCa0?feature=shared",
           },
         ],
@@ -282,19 +282,19 @@ const data = {
         thumbnailPath: "assets/images/placeholders/thigh1.jpg",
         videos: [
           {
-            offlinePath: "assets/videos/thigh4.mp4",
+            offlinePath: "assets/videos/leg1.mp4",
             onlineUrl: "https://www.instagram.com/reel/DJ9Kv0UTevQ/?igsh=MzZvMTd6ZWdxNnMy",
           },
           {
-            offlinePath: "assets/videos/thigh1.mp4",
+            offlinePath: "assets/videos/leg2.mp4",
             onlineUrl: "https://www.instagram.com/reel/DHqp9k3J_7L/?igsh=cjIyMWR6M3JwODJh",
           },
           {
-            offlinePath: "assets/videos/thigh2.mp4",
+            offlinePath: "assets/videos/leg3.mp4",
             onlineUrl: "https://youtube.com/shorts/vob9MY1UkuY?feature=shared",
           },
           {
-            offlinePath: "assets/videos/thigh3.mp4",
+            offlinePath: "assets/videos/leg4.mp4",
             onlineUrl: "https://youtube.com/shorts/AqiS1Qe_drQ?feature=shared",
           },
         ],
@@ -311,19 +311,19 @@ const data = {
         thumbnailPath: "assets/images/placeholders/glute1.png",
         videos: [
           {
-            offlinePath: "assets/videos/lowerBack3.mp4",
+            offlinePath: "assets/videos/leg5.mp4",
             onlineUrl: "https://youtube.com/shorts/CqWdutpVHxk?feature=shared",
           },
           {
-            offlinePath: "assets/videos/glute1.mp4",
+            offlinePath: "assets/videos/leg6.mp4",
             onlineUrl: "https://www.instagram.com/reel/DF-lmGPKzy4/?igsh=MWNiaTIwMGVwdDdkeA==",
           },
           {
-            offlinePath: "assets/videos/glute2.mp4",
+            offlinePath: "assets/videos/leg7.mp4",
             onlineUrl: "https://youtube.com/shorts/BhUpWmlKcJ8?feature=shared",
           },
           {
-            offlinePath: "assets/videos/glute3.mp4",
+            offlinePath: "assets/videos/leg8.mp4",
             onlineUrl: "https://youtube.com/shorts/Fbw_98aWeA8?feature=shared",
           },
         ],
@@ -334,15 +334,15 @@ const data = {
         thumbnailPath: "assets/images/placeholders/calf1.jpg",
         videos: [
           {
-            offlinePath: "assets/videos/calf1.mp4",
+            offlinePath: "assets/videos/leg9.mp4",
             onlineUrl: "https://youtube.com/shorts/a-x_NR-ibos?feature=shared",
           },
           {
-            offlinePath: "assets/videos/calf2.mp4",
+            offlinePath: "assets/videos/leg10.mp4",
             onlineUrl: "https://youtube.com/shorts/L-We4LHKDcU?feature=shared",
           },
           {
-            offlinePath: "assets/videos/ankle1.mp4",
+            offlinePath: "assets/videos/leg11.mp4",
             onlineUrl: "https://youtube.com/shorts/oE6SQanl5e4?feature=shared",
           },
         ],
@@ -360,27 +360,27 @@ const data = {
         thumbnailPath: "assets/images/placeholders/abs1.jpg",
         videos: [
           {
-            offlinePath: "assets/videos/abs1.mp4",
+            offlinePath: "assets/videos/core1.mp4",
             onlineUrl: "https://youtube.com/shorts/AJPhnaIy7cc?feature=shared",
           },
           {
-            offlinePath: "assets/videos/abs2.mp4",
+            offlinePath: "assets/videos/core2.mp4",
             onlineUrl: "https://youtube.com/shorts/bNbxV1c2c1U?feature=shared",
           },
           {
-            offlinePath: "assets/videos/abs3.mp4",
+            offlinePath: "assets/videos/core3.mp4",
             onlineUrl: "https://youtube.com/shorts/nWnv2psVIOA?feature=shared",
           },
           {
-            offlinePath: "assets/videos/abs4.mp4",
+            offlinePath: "assets/videos/core4.mp4",
             onlineUrl: "https://www.instagram.com/reel/DEbnuJ_oqnt/?igsh=ZGNvYnFzb2g0eDc4",
           },
           {
-            offlinePath: "assets/videos/abs5.mp4", // ! Startcut
+            offlinePath: "assets/videos/core5.mp4", // ! Startcut
             onlineUrl: "https://www.instagram.com/reel/DHgHCP3Ir-9/?igsh=ZWNqNjdzOGttbDdm",
           },
           {
-            offlinePath: "assets/videos/abs6.mp4",
+            offlinePath: "assets/videos/core6.mp4",
             onlineUrl: "https://www.instagram.com/reel/DGvGtw0InUN/?igsh=MXc1bWM0Mm9neTVwdg==",
           },
         ],
@@ -397,15 +397,15 @@ const data = {
         thumbnailPath: "assets/images/placeholders/pelvicFloor1.png",
         videos: [
           {
-            offlinePath: "assets/videos/pelvicFloor1.mp4",
+            offlinePath: "assets/videos/core7.mp4",
             onlineUrl: "https://www.instagram.com/reel/DCmjPc6IEI-/?igsh=MTk3dmQxbGIxd3M2bg==",
           },
           {
-            offlinePath: "assets/videos/pelvicFloor2.mp4",
+            offlinePath: "assets/videos/core8.mp4",
             onlineUrl: "https://youtube.com/shorts/4GKcC7pNKW4?feature=shared",
           },
           {
-            offlinePath: "assets/videos/pelvicFloor3.mp4",
+            offlinePath: "assets/videos/core9.mp4",
             onlineUrl: "https://youtube.com/shorts/Rlv0zQO-4Kg?feature=shared",
           },
         ],
