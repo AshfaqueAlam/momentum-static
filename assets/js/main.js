@@ -620,6 +620,10 @@ const data = {
     thumbnailPath: "assets/images/placeholders/nano_banana_pro/calisthenics1.jpg",
     videos: [
       {
+        offlinePath: "assets/videos/calisthenics0.mp4",
+        onlineUrl: "https://www.instagram.com/reel/DQErPR3iOmq/?igsh=Y2Nnem5sNmM2MzN0",
+      },
+      {
         offlinePath: "assets/videos/calisthenics1.mp4",
         onlineUrl: "https://www.instagram.com/reel/DLxDKEHo5qu/?igsh=MTc0b2V0NzNiZGpzYw==",
       },
