@@ -97,6 +97,10 @@ const data = {
         offlinePath: "assets/videos/mobility15.mp4",
         onlineUrl: "https://www.instagram.com/reel/DUdoprtkcWo/?igsh=cmJjZTI4MmUzcjIy",
       },
+      {
+        offlinePath: "assets/videos/mobility16.mp4",
+        onlineUrl: "https://www.instagram.com/p/DUp5aqzgEOa/?igsh=cmlob243bzFmcmU4",
+      },
     ],
   },
   chest: {
