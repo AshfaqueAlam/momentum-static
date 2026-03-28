@@ -93,6 +93,10 @@ const data = {
         offlinePath: "assets/videos/mobility14.mp4",
         onlineUrl: "https://www.instagram.com/reel/DJW4DqDzI7e/?igsh=dHB3c21hMnUyeDFx",
       },
+      {
+        offlinePath: "assets/videos/mobility15.mp4",
+        onlineUrl: "https://www.instagram.com/reel/DUdoprtkcWo/?igsh=cmJjZTI4MmUzcjIy",
+      },
     ],
   },
   chest: {
@@ -257,6 +261,10 @@ const data = {
           {
             offlinePath: "assets/videos/back14.mp4",
             onlineUrl: "https://www.instagram.com/reel/DFdExrrOBKb/?igsh=c3Izd2l5YXpsOWJ5",
+          },
+          {
+            offlinePath: "assets/videos/back15.mp4",
+            onlineUrl: "https://www.instagram.com/reel/DTF_qMIDjxW/?igsh=MTZmd3ptejcydXRvaw==",
           },
         ],
       },
@@ -665,6 +673,18 @@ const data = {
       {
         offlinePath: "assets/videos/bestPractices5.mp4",
         onlineUrl: "https://www.instagram.com/reel/DJuJWI_yCpk/?igsh=MXE1bDgxaHl0cDRxdA==",
+      },
+      {
+        offlinePath: "assets/videos/bestPractices6.mp4",
+        onlineUrl: "https://www.instagram.com/reel/DVhgOWgDUTY/?igsh=bnFiaTFzcXJobDZt",
+      },
+      {
+        offlinePath: "assets/videos/bestPractices7.mp4",
+        onlineUrl: "https://www.instagram.com/reel/DUDzMISDm1C/?igsh=MTllMWFsODNwMGtqdg==",
+      },
+      {
+        offlinePath: "assets/videos/bestPractices8.mp4",
+        onlineUrl: "https://www.instagram.com/reel/DTxzPVrEeKq/?igsh=dDRwbnc2OWI4cXNo",
       },
     ],
   },
