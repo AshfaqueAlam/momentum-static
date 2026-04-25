@@ -101,6 +101,30 @@ const data = {
         offlinePath: "assets/videos/mobility16.mp4",
         onlineUrl: "https://www.instagram.com/p/DUp5aqzgEOa/?igsh=cmlob243bzFmcmU4",
       },
+      {
+        offlinePath: "assets/videos/mobility17.mp4",
+        onlineUrl: "https://www.instagram.com/reel/DVbumoHjo8O/?igsh=MW8wY3IwNWZrZGZncQ==",
+      },
+      {
+        offlinePath: "assets/videos/mobility18.mp4",
+        onlineUrl: "https://www.instagram.com/reel/DU9Jy_3kr-A/?igsh=MXdhMHdlZWxvZWs4Ng==",
+      },
+      {
+        offlinePath: "assets/videos/mobility19.mp4",
+        onlineUrl: "https://www.instagram.com/reel/DVL3aIyk1Ul/?igsh=N3hkcTY5Mm5oeG5n",
+      },
+      {
+        offlinePath: "assets/videos/mobility20.mp4",
+        onlineUrl: "https://www.instagram.com/reel/DWederIBS9Z/?igsh=MTVlYmUzMm15eDZpeA==",
+      },
+      {
+        offlinePath: "assets/videos/mobility21.mp4",
+        onlineUrl: "https://www.instagram.com/reel/DWZZnWshBZV/?igsh=MXhmaWxjbHdpYnMwNw==",
+      },
+      {
+        offlinePath: "assets/videos/mobility22.mp4",
+        onlineUrl: "https://www.instagram.com/reel/DTi67V1jn94/?igsh=cDRhYzZuNmdhYnR2",
+      },
     ],
   },
   chest: {
@@ -454,6 +478,10 @@ const data = {
             offlinePath: "assets/videos/leg16.mp4",
             onlineUrl: "https://www.instagram.com/p/DLzJzYcNmSo/",
           },
+          {
+            offlinePath: "assets/videos/leg21.mp4",
+            onlineUrl: "https://www.instagram.com/reel/DVSnsT3DWTE/?igsh=MTJ0dDN5azgzdG1zaw==",
+          },
         ],
       },
       hamstrings: {
@@ -522,6 +550,10 @@ const data = {
           {
             offlinePath: "assets/videos/leg17.mp4",
             onlineUrl: "https://www.instagram.com/reel/DLOOwmszSab/?igsh=Nmdja2cyNXBjNWJo",
+          },
+          {
+            offlinePath: "assets/videos/leg20.mp4",
+            onlineUrl: "https://www.instagram.com/reel/DWUP2PGDo5G/?igsh=bTN2Y3FvMnF2eXAx",
           },
         ],
       },
@@ -651,6 +683,10 @@ const data = {
         offlinePath: "assets/videos/calisthenics4.mp4",
         onlineUrl: "https://www.instagram.com/reel/DGvuaHxoeWS/?igsh=MWVsNGdsNHdxeDFwZA==",
       },
+      {
+        offlinePath: "assets/videos/calisthenics5.mp4",
+        onlineUrl: "https://www.instagram.com/reel/DW4bf9wDYKM/?igsh=azY4bDFyZ2p1cjI2",
+      },
     ],
   },
   bestPractices: {
@@ -689,6 +725,10 @@ const data = {
       {
         offlinePath: "assets/videos/bestPractices8.mp4",
         onlineUrl: "https://www.instagram.com/reel/DTxzPVrEeKq/?igsh=dDRwbnc2OWI4cXNo",
+      },
+      {
+        offlinePath: "assets/videos/bestPractices9.mp4",
+        onlineUrl: "https://www.instagram.com/reel/DU03oobCKf1/?igsh=MWQ4dmpudDVoa3RyMQ==",
       },
     ],
   },
