@@ -125,6 +125,10 @@ const data = {
         offlinePath: "assets/videos/mobility22.mp4",
         onlineUrl: "https://www.instagram.com/reel/DTi67V1jn94/?igsh=cDRhYzZuNmdhYnR2",
       },
+      {
+        offlinePath: "assets/videos/mobility23.mp4",
+        onlineUrl: "https://www.instagram.com/reel/DXUyb7Bkxyv/?igsh=MWhkNnc5ZXVjMzhhZA==",
+      },
     ],
   },
   chest: {
